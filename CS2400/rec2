@@ -1,0 +1,12 @@
+using namespace std;
+	function1(chara, unsigned int x)
+	{
+		signed int z[3];
+		signed short y = 2;
+		unsigned int q = 3;
+		do
+		{
+			
+		}while 
+	}
+}
